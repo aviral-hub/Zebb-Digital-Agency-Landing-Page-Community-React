@@ -1,0 +1,2484 @@
+.landingpage-mobile320px-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-landingpage-mobile320px1 {
+  width: 100%;
+  height: 15748px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.landingpage-mobile320px-landingpage-mobile320px2 {
+  top: 0px;
+  left: 0px;
+  width: 479px;
+  height: 15700px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.landingpage-mobile320px-herosection {
+  gap: 60px;
+  top: 34.999755859375px;
+  left: 0px;
+  width: 479px;
+  display: flex;
+  padding: 60px 16px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-heading1 {
+  gap: 40px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-headline1 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-element1 {
+  top: 55.1865234375px;
+  left: 139px;
+  width: 149px;
+  height: 41px;
+  position: absolute;
+}
+ 
+.landingpage-mobile320px-text100 {
+  color: rgba(43, 43, 43, 1);
+  height: auto;
+  z-index: 1;
+  font-size: 40px;
+  align-self: stretch;
+  font-style: Black;
+  text-align: center;
+  font-family: Merriweather;
+  font-weight: 900;
+  line-height: 52px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text101 {
+  color: rgba(43, 43, 43, 1);
+}
+ 
+.landingpage-mobile320px-text102 {
+  color: rgba(0, 0, 0, 1);
+}
+ 
+.landingpage-mobile320px-text103 {
+  color: rgba(255, 255, 255, 1);
+}
+ 
+.landingpage-mobile320px-text104 {
+  color: rgba(0, 0, 0, 1);
+}
+ 
+.landingpage-mobile320px-btnourwork {
+  gap: 4px;
+  display: flex;
+  padding: 16px 20px;
+  box-shadow: 0px 20px 40px 5px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  background-color: rgba(2, 14, 53, 1);
+}
+ 
+.landingpage-mobile320px-text106 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-illustration1 {
+  gap: 4px;
+  width: 237px;
+  height: 203px;
+  display: flex;
+  padding: 4px 0 4px 4px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 200px;
+  flex-direction: column;
+  background-color: rgba(255, 238, 246, 1);
+}
+ 
+.landingpage-mobile320px-header {
+  top: 0px;
+  left: 0px;
+  width: 479px;
+  display: flex;
+  padding: 0 16px;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 8px 20px 5px rgba(0, 0, 0, 0.07999999821186066) ;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.landingpage-mobile320px-logo2 {
+  gap: 4px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.landingpage-mobile320px-logo11 {
+  width: 55px;
+  height: 60px;
+}
+ 
+.landingpage-mobile320px-hummenu {
+  gap: 12px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-line1 {
+  width: 32px;
+  height: 1px;
+}
+ 
+.landingpage-mobile320px-line2 {
+  width: 32px;
+  height: 1px;
+}
+ 
+.landingpage-mobile320px-thingsweenjoy {
+  gap: 40px;
+  top: 1711.999755859375px;
+  left: 0px;
+  width: 479px;
+  display: flex;
+  padding: 80px 16px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-leftside {
+  gap: 120px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-headline2 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-element2 {
+  top: 78.1865234375px;
+  left: 80px;
+  width: 121px;
+  height: 26px;
+  position: absolute;
+}
+ 
+.landingpage-mobile320px-text107 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  z-index: 1;
+  font-size: 40px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: center;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 52px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-bulletpoint {
+  gap: 40px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-point1 {
+  gap: 40px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-textblock1 {
+  gap: 20px;
+  display: flex;
+  padding: 8px 0 0;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-text108 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 28px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text109 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-point2 {
+  gap: 40px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-textblock2 {
+  gap: 20px;
+  display: flex;
+  padding: 8px 0 0;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-text113 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 28px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text114 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-point3 {
+  gap: 40px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-textblock3 {
+  gap: 20px;
+  display: flex;
+  padding: 8px 0 0;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-text118 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 28px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text119 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-rightside {
+  gap: 40px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-point4 {
+  gap: 40px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-textblock4 {
+  gap: 20px;
+  display: flex;
+  padding: 8px 0 0;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-text123 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 28px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text124 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-point5 {
+  gap: 32px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-textblock5 {
+  gap: 20px;
+  display: flex;
+  padding: 8px 0 0;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-text128 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 28px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text129 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-point6 {
+  gap: 40px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-textblock6 {
+  gap: 20px;
+  display: flex;
+  padding: 8px 0 0;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-text133 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 28px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text134 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-powered-by {
+  gap: 60px;
+  top: 665.999755859375px;
+  left: 0px;
+  width: 479px;
+  display: flex;
+  padding: 80px 16px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-content1 {
+  gap: 60px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-heading2 {
+  gap: 42px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-headline3 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-element3 {
+  top: 130.1865234375px;
+  left: 71px;
+  width: 145px;
+  height: 29px;
+  position: absolute;
+}
+ 
+.landingpage-mobile320px-text138 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  z-index: 1;
+  font-size: 40px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: center;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 52px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text139 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: center;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-btn {
+  gap: 40px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-btnlearnmore1 {
+  gap: 4px;
+  display: flex;
+  padding: 16px 20px;
+  box-shadow: 0px 20px 40px 5px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  background-color: rgba(2, 14, 53, 1);
+}
+ 
+.landingpage-mobile320px-text144 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-watchvideo {
+  gap: 24px;
+  display: flex;
+  align-items: center;
+}
+ 
+.landingpage-mobile320px-playbtn {
+  width: 68px;
+  height: 68px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.landingpage-mobile320px-ellipse1 {
+  top: 0px;
+  left: 0px;
+  width: 68px;
+  height: 68px;
+  position: absolute;
+}
+ 
+.landingpage-mobile320px-polygon1 {
+  top: 10px;
+  left: 55px;
+  width: 48px;
+  height: 42px;
+  position: absolute;
+}
+ 
+.landingpage-mobile320px-text145 {
+  color: rgba(43, 43, 43, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-illustration2 {
+  gap: 4px;
+  width: 243px;
+  height: 208px;
+  display: flex;
+  padding: 4px 0 4px 4px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 500px;
+  flex-direction: column;
+  background-color: rgba(255, 238, 246, 1);
+}
+ 
+.landingpage-mobile320px-craftexperience {
+  gap: 100px;
+  top: 3935px;
+  left: 0px;
+  width: 479px;
+  display: flex;
+  padding: 80px 16px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-heading3 {
+  gap: 60px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-headline4 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-element4 {
+  top: 287.186767578125px;
+  left: 0px;
+  width: 215px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.landingpage-mobile320px-text146 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  z-index: 1;
+  font-size: 40px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 52px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text147 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-btnlearnmore2 {
+  gap: 4px;
+  display: flex;
+  padding: 24px 40px;
+  box-shadow: 0px 20px 40px 5px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  background-color: rgba(2, 14, 53, 1);
+}
+ 
+.landingpage-mobile320px-text148 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-illustration3 {
+  gap: 4px;
+  width: 294px;
+  height: 253px;
+  display: flex;
+  padding: 4px 0 4px 4px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 1000px;
+  flex-direction: column;
+  background-color: rgba(255, 238, 246, 1);
+}
+ 
+.landingpage-mobile320px-our-team {
+  gap: 104px;
+  top: 5143px;
+  left: 0px;
+  width: 479px;
+  display: flex;
+  padding: 80px 16px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-headline5 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-element5 {
+  top: 81.1865234375px;
+  left: 87px;
+  width: 123px;
+  height: 23px;
+  position: absolute;
+}
+ 
+.landingpage-mobile320px-text149 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  z-index: 1;
+  font-size: 40px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: center;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 52px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-content2 {
+  gap: 51px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-block1 {
+  gap: 19px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-block2 {
+  gap: 60px;
+  display: flex;
+  padding: 71px 165px;
+  align-self: stretch;
+  align-items: center;
+  border-color: rgba(183, 183, 183, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.landingpage-mobile320px-photo1 {
+  width: 200px;
+  height: 200px;
+}
+ 
+.landingpage-mobile320px-name1 {
+  gap: 24px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-text150 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text151 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-block3 {
+  gap: 60px;
+  display: flex;
+  padding: 71px 165px;
+  align-self: stretch;
+  align-items: center;
+  border-color: rgba(183, 183, 183, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.landingpage-mobile320px-photo2 {
+  width: 200px;
+  height: 200px;
+}
+ 
+.landingpage-mobile320px-name2 {
+  gap: 24px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-text152 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text153 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text154 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-block4 {
+  gap: 60px;
+  display: flex;
+  padding: 71px 165px;
+  align-self: stretch;
+  align-items: center;
+  border-color: rgba(183, 183, 183, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.landingpage-mobile320px-photo3 {
+  width: 200px;
+  height: 200px;
+}
+ 
+.landingpage-mobile320px-name3 {
+  gap: 24px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-text155 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text156 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-block5 {
+  gap: 32px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-block6 {
+  gap: 60px;
+  display: flex;
+  padding: 71px 165px;
+  align-self: stretch;
+  align-items: center;
+  border-color: rgba(183, 183, 183, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.landingpage-mobile320px-photo4 {
+  width: 200px;
+  height: 200px;
+}
+ 
+.landingpage-mobile320px-name4 {
+  gap: 24px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-text157 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text158 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-block7 {
+  gap: 60px;
+  display: flex;
+  padding: 71px 165px;
+  align-self: stretch;
+  align-items: center;
+  border-color: rgba(183, 183, 183, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.landingpage-mobile320px-photo5 {
+  width: 200px;
+  height: 200px;
+}
+ 
+.landingpage-mobile320px-name5 {
+  gap: 24px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-text159 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text160 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-block8 {
+  gap: 60px;
+  display: flex;
+  padding: 71px 165px;
+  align-self: stretch;
+  align-items: center;
+  border-color: rgba(183, 183, 183, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.landingpage-mobile320px-photo6 {
+  width: 200px;
+  height: 200px;
+}
+ 
+.landingpage-mobile320px-name6 {
+  gap: 24px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-text161 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text162 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-our-work {
+  gap: 60px;
+  top: 8621px;
+  left: 0px;
+  width: 479px;
+  display: flex;
+  padding: 80px 16px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-headline6 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-element6 {
+  top: 131.1865234375px;
+  left: 89px;
+  width: 116px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.landingpage-mobile320px-text163 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  z-index: 1;
+  font-size: 40px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: center;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 52px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-slide-menu {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.landingpage-mobile320px-left1 {
+  gap: 24px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-frame1 {
+  gap: 4px;
+  display: flex;
+  padding: 4px;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: rgba(255, 86, 120, 1);
+}
+ 
+.landingpage-mobile320px-text167 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text168 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-right1 {
+  gap: 24px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-text169 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text170 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-imageblock {
+  gap: 32px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.landingpage-mobile320px-image {
+  gap: 32px;
+  width: 447px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-image-container1 {
+  gap: 4px;
+  display: flex;
+  padding: 4px;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: rgba(255, 238, 246, 1);
+}
+ 
+.landingpage-mobile320px-image-container2 {
+  gap: 4px;
+  display: flex;
+  padding: 4px;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: rgba(255, 238, 246, 1);
+}
+ 
+.landingpage-mobile320px-image-container3 {
+  gap: 4px;
+  display: flex;
+  padding: 4px;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: rgba(255, 238, 246, 1);
+}
+ 
+.landingpage-mobile320px-btn-seemore {
+  gap: 4px;
+  display: flex;
+  padding: 24px 60px;
+  box-shadow: 0px 20px 40px 5px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  background-color: rgba(2, 14, 53, 1);
+}
+ 
+.landingpage-mobile320px-text171 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-testimonial {
+  gap: 60px;
+  top: 10331px;
+  left: 0px;
+  width: 479px;
+  display: flex;
+  padding: 80px 16px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-heading4 {
+  gap: 20px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-text172 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 40px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: center;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 52px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text173 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: center;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-content3 {
+  gap: 32px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.landingpage-mobile320px-block9 {
+  gap: 46px;
+  width: 447px;
+  display: flex;
+  padding: 40px 20px;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(148, 148, 148, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50px;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-text174 {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-photo7 {
+  width: 150px;
+  height: 150px;
+}
+ 
+.landingpage-mobile320px-star {
+  width: 206px;
+  height: 27px;
+}
+ 
+.landingpage-mobile320px-text175 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: center;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-name7 {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-text176 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text177 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-icon-arrows {
+  gap: 40px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-left2 {
+  width: 80px;
+  height: 80px;
+}
+ 
+.landingpage-mobile320px-right2 {
+  width: 80px;
+  height: 80px;
+}
+ 
+.landingpage-mobile320px-contact-us {
+  gap: 100px;
+  top: 11324px;
+  left: 0px;
+  width: 479px;
+  display: flex;
+  padding: 80px 16px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-illustration4 {
+  gap: 4px;
+  width: 292px;
+  height: 250px;
+  display: flex;
+  padding: 4px 0 4px 4px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 1000px;
+  flex-direction: column;
+  background-color: rgba(255, 238, 246, 1);
+}
+ 
+.landingpage-mobile320px-contactus {
+  gap: 80px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-heading5 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-end;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-element7 {
+  top: 185.1865234375px;
+  left: 33px;
+  width: 219px;
+  height: 23px;
+  position: absolute;
+}
+ 
+.landingpage-mobile320px-text178 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  z-index: 1;
+  font-size: 40px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: center;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 52px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-contact {
+  gap: 40px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-namecard1 {
+  gap: 20px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-text179 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-plate1 {
+  gap: 4px;
+  display: flex;
+  padding: 4px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(2, 14, 53, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  background-color: rgba(255, 238, 246, 1);
+}
+ 
+.landingpage-mobile320px-emailcard1 {
+  gap: 20px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-text180 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-plate2 {
+  gap: 4px;
+  display: flex;
+  padding: 4px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(2, 14, 53, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  background-color: rgba(255, 238, 246, 1);
+}
+ 
+.landingpage-mobile320px-messagecard {
+  gap: 20px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-text181 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-plate3 {
+  gap: 4px;
+  display: flex;
+  padding: 4px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(2, 14, 53, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  background-color: rgba(255, 238, 246, 1);
+}
+ 
+.landingpage-mobile320px-btnsend1 {
+  gap: 4px;
+  display: flex;
+  padding: 16px 60px;
+  box-shadow: 0px 20px 40px 5px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  background-color: rgba(2, 14, 53, 1);
+}
+ 
+.landingpage-mobile320px-text182 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-newsletter {
+  gap: 100px;
+  top: 12722px;
+  left: 0px;
+  width: 479px;
+  display: flex;
+  padding: 80px 16px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-illustration5 {
+  gap: 4px;
+  width: 290px;
+  height: 286px;
+  display: flex;
+  padding: 4px 0 4px 4px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 1000px;
+  flex-direction: column;
+  background-color: rgba(255, 238, 246, 1);
+}
+ 
+.landingpage-mobile320px-text-block {
+  gap: 100px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-heading6 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-element8 {
+  top: 183.1865234375px;
+  left: 35px;
+  width: 189px;
+  height: 25px;
+  position: absolute;
+}
+ 
+.landingpage-mobile320px-text183 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  z-index: 1;
+  font-size: 40px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: center;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 52px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-cards {
+  gap: 40px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-namecard2 {
+  gap: 20px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-text184 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-plate4 {
+  gap: 4px;
+  display: flex;
+  padding: 4px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(2, 14, 53, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  background-color: rgba(255, 238, 246, 1);
+}
+ 
+.landingpage-mobile320px-emailcard2 {
+  gap: 20px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-text185 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-plate5 {
+  gap: 4px;
+  display: flex;
+  padding: 4px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(2, 14, 53, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  background-color: rgba(255, 238, 246, 1);
+}
+ 
+.landingpage-mobile320px-btnsend2 {
+  gap: 4px;
+  display: flex;
+  padding: 24px 80px;
+  box-shadow: 0px 20px 40px 5px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  background-color: rgba(2, 14, 53, 1);
+}
+ 
+.landingpage-mobile320px-text186 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-footer {
+  gap: 60px;
+  top: 13953px;
+  left: 0px;
+  width: 479px;
+  display: flex;
+  padding: 100px 0 0;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.landingpage-mobile320px-illustration6 {
+  gap: 4px;
+  width: 609px;
+  height: 524px;
+  display: flex;
+  padding: 4px 0 4px 4px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 1000px;
+  flex-direction: column;
+  background-color: rgba(255, 238, 246, 1);
+}
+ 
+.landingpage-mobile320px-illustration7 {
+  gap: 4px;
+  width: 609px;
+  height: 524px;
+  display: flex;
+  padding: 4px 0 4px 4px;
+  z-index: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 1000px;
+  flex-direction: column;
+  background-color: rgba(255, 238, 246, 1);
+}
+ 
+.landingpage-mobile320px-info1 {
+  gap: 119px;
+  display: flex;
+  padding: 0 16px;
+  z-index: 2;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-frame3 {
+  gap: 32px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-logo3 {
+  gap: 4px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.landingpage-mobile320px-logo12 {
+  width: 100px;
+  height: 109px;
+}
+ 
+.landingpage-mobile320px-socialmediaicon {
+  gap: 24px;
+  display: flex;
+  align-items: center;
+}
+ 
+.landingpage-mobile320px-iconcolor1 {
+  width: 34px;
+  height: 35px;
+}
+ 
+.landingpage-mobile320px-iconcolor2 {
+  width: 34px;
+  height: 33px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.landingpage-mobile320px-iconcolor3 {
+  top: 0px;
+  left: 0px;
+  width: 34px;
+  height: 33px;
+  position: absolute;
+}
+ 
+.landingpage-mobile320px-iconcolor4 {
+  width: 34px;
+  height: 33px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.landingpage-mobile320px-iconcolor5 {
+  top: 0px;
+  left: 0px;
+  width: 34px;
+  height: 33px;
+  position: absolute;
+}
+ 
+.landingpage-mobile320px-iconcolor6 {
+  width: 33px;
+  height: 33px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.landingpage-mobile320px-iconcolor7 {
+  top: 0px;
+  left: 0px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+ 
+.landingpage-mobile320px-iconcolor8 {
+  width: 33px;
+  height: 29px;
+}
+ 
+.landingpage-mobile320px-address {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-text187 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text188 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text189 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-info2 {
+  gap: 17px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-text193 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text194 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-text195 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text196 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text197 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text198 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text199 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text200 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-info3 {
+  gap: 17px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-text201 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text202 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-text203 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text204 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text205 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text206 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-info4 {
+  gap: 17px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-text207 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text208 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-text209 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text210 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text211 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-info5 {
+  gap: 17px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+ 
+.landingpage-mobile320px-text212 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text213 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.landingpage-mobile320px-text214 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text215 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text216 {
+  color: rgba(2, 14, 53, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-terms {
+  gap: 24px;
+  display: flex;
+  padding: 32px;
+  z-index: 3;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: rgba(2, 14, 53, 1);
+}
+ 
+.landingpage-mobile320px-text217 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: center;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-right-side {
+  gap: 60px;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.landingpage-mobile320px-text218 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.landingpage-mobile320px-text219 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
